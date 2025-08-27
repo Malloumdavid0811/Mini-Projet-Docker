@@ -5,7 +5,7 @@ This repo is a simple application to list student with a webserver (PHP) and API
 
 # THEMATIQUE: Mini-projet Docker - Création, déploiement et publication d'un microservice avec un serveur Web (langage PHP) et une API (Micro framework Flask en langage Python) 
 
-## A travers les étapes suivantes:
+## A travers les étapes suivantes :
 ### a) Récupération du code du mini-projet avec git
 ![1756133488172](https://github.com/user-attachments/assets/a62b1f7f-1802-47e5-a7e9-490822058bd0)
 ### b) Création du Dockerfile de l'application flask
@@ -34,4 +34,5 @@ This repo is a simple application to list student with a webserver (PHP) and API
 ![1756133716818](https://github.com/user-attachments/assets/67b4a35b-794f-4e17-8538-72be60a17dad)
 ![1756133728422](https://github.com/user-attachments/assets/7540b704-63f9-44cf-ab41-eac3094e09aa)
 ![1756133741689](https://github.com/user-attachments/assets/1d0a5e01-c19d-4568-83c5-851e20f92164)
+
 
