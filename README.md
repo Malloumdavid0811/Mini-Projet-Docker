@@ -12,27 +12,16 @@ This repo is a simple application to list student with a webserver (PHP) and API
 ![1756133497949](https://github.com/user-attachments/assets/c651ff06-19f8-4ce6-9cc7-3ed2932ec720)
 ### c) Build de l'image student-age ;
 ![1756133508706](https://github.com/user-attachments/assets/b2e30cc3-6b95-4c97-bbaa-3178cbe5e5c2)
-### d) Création d'un réseau docker pour isoler nos workload ;
+### d) Création du fichier docker-compose ;
 ![1756133533330](https://github.com/user-attachments/assets/d4d7b905-7888-4db6-8146-61e76edc0ed0)
+### e) Déploiement de notre stack applicative frontend et backend avec docker-compose ;
 ![1756133542334](https://github.com/user-attachments/assets/e92cc84c-d148-4907-9a60-b53175aafe05)
-### e) Déploiement du conteneur afin de valider l'image créée ;
 ![1756133553540](https://github.com/user-attachments/assets/16281b14-019a-4905-92fd-cd1914e401be)
-
-
-### f) Présentation de la deuxième partie iaC avec docker-compose ;
-
-### g) Création du fichier docker-compose ;
-### h) Déploiement de notre stack applicative frontend et backend avec docker-compose ;
 ![1756133574130](https://github.com/user-attachments/assets/d634876b-f82a-4bf1-a020-341a7258491b)
 ![1756133583948](https://github.com/user-attachments/assets/11b2045e-dfc6-4367-9e6a-4bd1addef6cc)
-### i) Modification de l'index.php ;
+### f) Modification de l'index.php ;
 ![1756133598081](https://github.com/user-attachments/assets/505f1e2e-26ec-4cd7-a1cd-5af12f6af289)
-
 ![1756133608938](https://github.com/user-attachments/assets/2609ad81-57fb-4c24-ba69-306cf3124d79)
-
-### j) Vérification du fonctionnement de l'application ;
-### k) Déploiement du régistre privé ;
+### g) Vérification du fonctionnement de l'application ;
+### h) Déploiement du régistre privé ;
 ### i) Et déploiement de l'IHM (Interface Homme-Machine) du registre privé.
-
-
-
