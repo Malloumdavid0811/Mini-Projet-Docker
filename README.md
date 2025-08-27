@@ -23,5 +23,14 @@ This repo is a simple application to list student with a webserver (PHP) and API
 ![1756133598081](https://github.com/user-attachments/assets/505f1e2e-26ec-4cd7-a1cd-5af12f6af289)
 ![1756133608938](https://github.com/user-attachments/assets/2609ad81-57fb-4c24-ba69-306cf3124d79)
 ### g) Vérification du fonctionnement de l'application ;
+![1756133622919](https://github.com/user-attachments/assets/9eb578de-0c7c-44ef-a825-c3f5cb5e6bee)
 ### h) Déploiement du régistre privé ;
+![1756133643201](https://github.com/user-attachments/assets/397a42bb-2b6c-4e1f-b1f1-cc86b478470f)
+![1756133658156](https://github.com/user-attachments/assets/e2211031-ba37-4133-a23a-e3481d51ac27)
 ### i) Et déploiement de l'IHM (Interface Homme-Machine) du registre privé.
+![1756133675009](https://github.com/user-attachments/assets/a937db3d-776b-42fc-a1a9-67fa1799ef77)
+![1756133692067](https://github.com/user-attachments/assets/e06c6b73-f947-414e-ae2d-da58e990502b)
+![1756133704694](https://github.com/user-attachments/assets/9484551f-907b-47c2-8bff-e9c1d479fc73)
+![1756133716818](https://github.com/user-attachments/assets/67b4a35b-794f-4e17-8538-72be60a17dad)
+![1756133728422](https://github.com/user-attachments/assets/7540b704-63f9-44cf-ab41-eac3094e09aa)
+![1756133741689](https://github.com/user-attachments/assets/1d0a5e01-c19d-4568-83c5-851e20f92164)
