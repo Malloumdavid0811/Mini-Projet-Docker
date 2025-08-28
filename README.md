@@ -49,7 +49,7 @@ This repo is a simple application to list student with a webserver (PHP) and API
 
 ![1756133658156](https://github.com/user-attachments/assets/e2211031-ba37-4133-a23a-e3481d51ac27)
 
-### i) Et déploiement de l'IHM (Interface Homme-Machine) du registre privé
+### i) Déploiement de l'IHM (Interface Homme-Machine) du registre privé
 
 ![1756133675009](https://github.com/user-attachments/assets/a937db3d-776b-42fc-a1a9-67fa1799ef77)
 
@@ -62,5 +62,6 @@ This repo is a simple application to list student with a webserver (PHP) and API
 ![1756133728422](https://github.com/user-attachments/assets/7540b704-63f9-44cf-ab41-eac3094e09aa)
 
 ![1756133741689](https://github.com/user-attachments/assets/1d0a5e01-c19d-4568-83c5-851e20f92164)
+
 
 
